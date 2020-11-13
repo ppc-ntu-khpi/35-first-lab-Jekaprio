@@ -1,4 +1,4 @@
-## Task_2.1
+## Task_2
 
 
 ``` java
@@ -10,7 +10,7 @@ public class QuotationTest {
 }
 ```
 
-## Task_1.2
+## Task_2
 
 
 ``` java
